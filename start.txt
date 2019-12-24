@@ -1,2 +1,2 @@
-Test start demo github
+Test start demo gith
 after adding public key
